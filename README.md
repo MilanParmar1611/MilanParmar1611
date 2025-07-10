@@ -73,10 +73,6 @@ From fintech platforms and healthcare systems to enterprise SaaS and smart city 
 
 Looking for a developer who understands **code, cloud, and clients**? I’d love to collaborate and bring your vision to life.
 
-🔗 [Website](https://www.stellarmindsforge.com)  
-📧 Email: hello@stellarmindsforge.com  
-🌐 Location: Working globally | India-based | PST-aligned
-
 ---
 
 <p align="center">
