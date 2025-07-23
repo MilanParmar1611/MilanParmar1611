@@ -71,7 +71,7 @@ From fintech platforms and healthcare systems to enterprise SaaS and smart city 
 
 ### 📈 Let’s Connect
 
-Looking for a developer who understands **code, cloud, and clients**? I’d love to collaborate and bring your vision to life.
+Looking for a tech partner who understands **code, cloud, and clients**? I’d love to collaborate and bring your vision to life.
 
 ---
 
